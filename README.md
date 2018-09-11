@@ -5,6 +5,7 @@
 
 ## Education
 * **High School:** *Tri-City Christian Shcool*
+* **College:** *Mira Costa College*
 
 ## Work Experience
 * #### **Waiter & Food Expeditor**
