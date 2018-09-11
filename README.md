@@ -7,10 +7,11 @@
 * **High School:** *Tri-City Christian Shcool*
 
 ## Work Experience
-* **Service Advisor & Writer     2013-2016
-AAMCO Transmissions & Total Car Care
+* **Service Advisor & Writer**     
+*AAMCO Transmissions & Total Car Care
 2255 Oceanside Blvd, Oceanside, CA, 92054
 760-757-7390
+2013-2016*
 
 
 ## Skills
