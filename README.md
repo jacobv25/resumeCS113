@@ -1,36 +1,18 @@
 # Jacob Valenzuela
 
-## Contact Info
+### Contact Info
 **Email:** *javalenz25@gmail.com* 
 
-### Markdown
+## Education
+* **High School:** *Tri-City Christian Shcool*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Work Experience
+* **Service Advisor & Writer     2013-2016
+AAMCO Transmissions & Total Car Care
+2255 Oceanside Blvd, Oceanside, CA, 92054
+760-757-7390
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Skills
+* **Primary Language:** *Java*
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jacobv25/resumeCS113/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
